@@ -1,0 +1,8 @@
+tensorflow-gpu
+numpy
+scikit-learn
+pandas
+psutil
+matplotlib
+skopt
+eli5
